@@ -1,0 +1,1 @@
+SELECT*FROM `nilai_ipk_format` WHERE `nilai_ipk_format`.`Nama dan IPK` LIKE "R%";
